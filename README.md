@@ -1,1 +1,1 @@
-# Movie App with ReactJS
+# ReactJS Movie App with Nomad Coder
